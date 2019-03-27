@@ -1,8 +1,8 @@
 name: screenshot_share_image
 description: Screenshot and share image
-version: 0.0.2
-author: MT Innovation <innovation@telecom.mu>
-homepage: https://bitbucket.org/
+version: 0.0.4
+author: MT Innovation <innovationmauritiustelecom@gmail.com>
+homepage: https://github.com/innovationmauritiustelecom/screenshotshareimage_plugin_flutter
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
