@@ -5,6 +5,7 @@ homepage: https://github.com/innovationmauritiustelecom/screenshotshareimage_plu
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
+  flutter: ">=1.10.0 <2.0.0"
 
 dependencies:
   flutter:
@@ -26,6 +27,7 @@ flutter:
         pluginClass: ScreenshotShareImagePlugin
       ios:
         pluginClass: ScreenshotShareImagePlugin
+
 
   # To add assets to your plugin package, add an assets section, like this:
   # assets:
